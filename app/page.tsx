@@ -8,7 +8,6 @@ export default async function Home() {
 //   const todos = data.map((todo) => (
 //     <Todo text={todo.text} completed={todo.completed} key={todo.id} id={todo.id}/>
 //   ))
-  <Todolist />
 
   return (
     <html>
